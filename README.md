@@ -95,5 +95,11 @@ Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian g
 
 ![uby7](foto/uby7.png)
 
+Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
+
+Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian hanya perlu mengecek apakah flowchart tersebut sudah bekera dengan baik atau belum dengan cara sebagai berikut
+
+![uby8](foto/uby8.png)
+
 
 
