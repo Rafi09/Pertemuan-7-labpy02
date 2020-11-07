@@ -104,7 +104,7 @@ Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian han
 Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian buat sudah benar dan bekerja dengan baik.
 
 # TERIMA KASIH
-![uby9](foto/uby9)
+![uby9](foto/uby9.png)
 
 
 
