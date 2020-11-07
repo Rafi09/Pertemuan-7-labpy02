@@ -54,3 +54,23 @@ Selanjutnya kalian bisa langsung memasukan syntax ini untuk melengkapi syntax di
 
 ![uby3](foto/uby3.png)
 
+Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan syntax
+
+````
+N=int(input("banyaknya data = "))
+if N>0:
+    i=1
+    x=int(input("data ke -"+str(i)+"="))
+    max=x;total=x
+    for i in range(2,N+1):
+        x=int (input("data ke -"+str(i)+"="))
+        total+=x
+        if max<x:
+            max=x
+
+    print("bilangan terbesar =",max)
+````
+
+Seperti inilah hasil akhirnya
+
+![uby4](foto/uby4)
