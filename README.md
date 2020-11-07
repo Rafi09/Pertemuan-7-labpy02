@@ -81,3 +81,15 @@ Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubah
 
 ![uby5](foto/uby5.png)
 
+Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu
+
+````
+http://www.flowgorithm.org/download/index.htm
+````
+
+Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
+
+![uby6](foto/uby6.png)
+
+
+
