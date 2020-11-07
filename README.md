@@ -74,3 +74,10 @@ if N>0:
 Seperti inilah hasil akhirnya
 
 ![uby4](foto/uby4)
+
+## MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
+
+Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini
+
+![uby5](foto/uby5.png)
+
