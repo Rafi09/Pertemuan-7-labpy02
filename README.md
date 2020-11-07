@@ -73,7 +73,7 @@ if N>0:
 
 Seperti inilah hasil akhirnya
 
-![uby4](foto/uby4)
+![uby4](foto/uby4.png)
 
 ## MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
 
