@@ -101,5 +101,8 @@ Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian han
 
 ![uby8](foto/uby8.png)
 
+Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian buat sudah benar dan bekerja dengan baik.
+
+# TERIMA KASIH
 
 
