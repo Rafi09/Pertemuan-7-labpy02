@@ -91,5 +91,9 @@ Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat se
 
 ![uby6](foto/uby6.png)
 
+Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
+
+![uby7](foto/uby7.png)
+
 
 
